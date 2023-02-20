@@ -1,0 +1,6 @@
+{
+  "thermometer-shop": {
+    "component": "ThermometerShop",
+    "render": "client"
+  }
+}
